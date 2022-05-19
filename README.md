@@ -2,12 +2,28 @@
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
-## Projects
+## Technical Experience
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+**Makers Academy, London (January 2022 - May 2022)**
+
+* 16-week intensive course at a leading European software development Bootcamp.
+* Trained to work using core development processes and methodologies such as SOLID, SRP, XP, REST, kanban and pair programming.
+* Strong focus on TDD and BDD from week 1 using: Rspec, Capybara, Jest, Jasmine, Cypress & Jest-DOM, alongside continuous integration.
+* Client-side, server-side and full-stack projects using: Ruby/Ruby-on-Rails, Sinatra, JavaScript, Node.js, ReactJS, PostgreSQL, MongoDB, Express & Handlebars.
+* Managed an intensive workload centred around self-directed learning.
+* Completed multiple, agile group engineering projects leading sprints, stand-ups and retrospectives.
+
+### Projects
+
+| Name                         | Description       | Technologies | Testing | Critical Analysis |        
+| ---------------------------- | ----------------- | ----------------- | ---------------------- | ------------|
+| **[Travel Angel](https://github.com/adamwoodcock98/travel-angel)**            | A webapp to store and track all of your travel information and documentation. | MongoDB, Express, ReactJS, Node.js | Jest, React Testing Library | Text |
+| **[Koala](https://github.com/adamwoodcock98/koala)** | A clone of Facebook where you can create a profile, add friends, write posts and like and comment on your friends posts. | MongoDB, Express, Handlebars, Node.js | Jest, Cypress | Text |
+| **[ScareBnB](https://github.com/adamwoodcock98/makersbnb)** | A close of Airbnb where you can add, view, request and approve/deny holiday lettings | Ruby, Sinatra | Capybara, Rspec | A [detailed and critical self-analysis](https://github.com/adamwoodcock98/MakersPortfolio/blob/main/Evidence/ScareBnB%20Review.md#Analysis) of the project. |
+
+### Full course evidence
+
+Jump straight to my [profile](https://github.com/adamwoodcock98) to see all other repos, or for a detailed archive of my learning progression on a week-by-week basis, please take a look at my [Makers portfolio](https://github.com/adamwoodcock98/MakersPortfolio).
 
 ## Work Experience
 
