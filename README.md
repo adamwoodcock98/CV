@@ -27,15 +27,38 @@ Jump straight to my [profile](https://github.com/adamwoodcock98) to see all othe
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Self-employed (January 2021 to present)**  
+_Currency Trader_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Research up-and-coming tech companies and projects
+- Analysing market conditions to open/close trades, applying pattern
+recognition and trading psychology to support decisions.
+- Actively manage my portfolio and risk calculations
+- Built trading bots using MQL5 for MetaTrader
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Addison Lee Group (June 2019 to January 2021)**  
+_Brand Standards Coach_
+- Undertake HR tasks such as note-taking, disciplinary processes, attendance and behaviour monitoring/reporting and RTWs.
+- Construct business-wide communications to deliver critical information as required by stakeholders.
+- Comprehensive 4-week training to new starters with the creation and delivery of new training packages to existing advisors
+- Improve the performance of Advisors by agreeing on individual objectives, monitoring performance, and supporting regular 1-2-1 coaching sessions
+- Work with Team Managers in order to innovate, identify and help implement process improvements
+- Encourage an exceptional level of service and nurture advisor KPIs (CSAT, AHT, ABCs)
+- Support operational needs across the business, safeguarding the fulfilment of regulatory and key-account SLAs
+- Set a precedent for our teams, cultivating our culture and group values
 
-- Any experience relevent to software development
+**Classic Interiors Limited (December 2014 to January 2018)**  
+_Accounts Manager_
+- Monthly payroll for all employed staff, including non-taxable benefits and journals
+- Quarterly VAT returns and full bookkeeping for 2 different stores
+- Analysis of financial data from all store locations for weekly managerial review
+- Pension processing and management
+- Full maintenance of Health & Safety logs and procedures including the creation and upkeep of risk assessments, fire safety, and staff training.
+- Liaise with accountants for the completion of annual returns
+- Manage expense claims and director loan accounts
+- All accounting/payroll/pensions managed through Xero
+- Train staff to meet organisational policies and procedures, legal regulations,
+and customer service.
 
 ## Skills
 
