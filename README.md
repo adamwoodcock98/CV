@@ -90,4 +90,6 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+I enjoy going to the gym, hiking, skiing and travelling. I have a passion for wellness through meditation, skincare and explorative excursions with my beautiful dog.
+
+I also volunteer as a treasurer for a local community centre in my hometown, digitising the back-office, maintaining the accounts and playing an active role in key fundraising events throughout the year.
