@@ -1,6 +1,10 @@
 # CV
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+With a background in finance and learning/development, problem solving and efficiency has been at the forefront of my professional life. As an individual, I find my energy through creativity, passion and a drive to be the best possible version of myself. For the past few years I've know software development as the perfect way to marry my logical, problem-solving acuity, with my desire to create, collaborate and grow.
+
+In January of this year, I took the leap and enrolled with Makers Academy. Here, coding fundamentals such as pair-programming and agile development, through to full-stack, test-driven MERN applications are drilled in from day 1. Through the coding practices, EQ curriculum and culture at Makers, I was made to feel like I truly belonged. 
+
+As a queer person, bringing a safe, welcoming and personable experience to my team does not only align with my values, but with who I am at my core. I'm thrilled by the prospect of working in a company where best practices - both technically and personally - are at the beating heart of the team experience.
 
 ## Technical Experience
 
@@ -24,6 +28,36 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 ### Full course evidence
 
 Jump straight to my [profile](https://github.com/adamwoodcock98) to see all other repos, or for a detailed archive of my learning progression on a week-by-week basis, please take a look at my [Makers portfolio](https://github.com/adamwoodcock98/MakersPortfolio).
+
+## Skills
+
+Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+(Using a STAR example Paragraph) Consider the questions below.
+
+-STAR
+-What was the situation/task? (ST)
+
+-How was the skill used?
+
+-What did you do? (action)
+
+-What was the result?
+
+
+#### This Skill
+
+- Experience
+- Achievements
+- Evidence (STAR)
+
+#### Another Skill
+
+Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
+
+- I achieved A during my work at B (job, or otherwise)
+- I contributed to the growth of X while doing Y (job, or otherwise)
+- I built this, made this, broke this, fixed this, etc.
+- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Work Experience
 
@@ -59,36 +93,6 @@ _Accounts Manager_
 - All accounting/payroll/pensions managed through Xero
 - Train staff to meet organisational policies and procedures, legal regulations,
 and customer service.
-
-## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
