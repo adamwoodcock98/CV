@@ -34,6 +34,11 @@ Jump straight to my [profile](https://github.com/adamwoodcock98) to see all othe
 #### Intuition
 I've always found pride in my natural sense of intuition. This skill grants me the ability to learn new concepts rapidly and adapt to change with very little friction. For example, during my time at Addison Lee, I was promoted straight into a management role seven months after joining, making me the fastest promotion of that scale in the company. Subsequent feedback from several interviews attributed my success to my willingness and ease when stepping outside of my role.
 
+#### Communication
+The EQ curriculum at Makers trained us extensively on [giving and receiving good feedback](https://medium.com/@adam.woodcock98/receiving-feedback-is-a-gift-999628b6b14c). As a coach, [empathetic](https://github.com/adamwoodcock98/MakersPortfolio/blob/main/Evidence/Empathy%20Workshop%20-%209th%20March%202022.md), active listening was paramount to the success of my trainees and, consequently, my team. I trained on leadership and communication styles, body language, and more in my time there. My written work is practical and adaptive, whether it's for [informal notes](https://github.com/adamwoodcock98/MakersPortfolio/blob/main/Evidence/Model-View-Controller%20(MVC).md), [technical walkthroughs](https://github.com/adamwoodcock98/MakersPortfolio/blob/main/Evidence/debugging-walkthrough.md), direct [reflections of personal challenges](https://medium.com/@adam.woodcock98/time-for-reflection-and-introspection-makers-day-27-2f2da0370486), or company-wide comms at Addison Lee.
+
+Outside of the professional, I am a very social person, and I emotionally thrive from the connections in my life.
+
 #### Myers-Briggs Personality Type
 [Protagonist - ENFJ](https://www.16personalities.com/enfj-personality).
 
