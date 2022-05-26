@@ -1,21 +1,21 @@
 # Adam Woodcock
 
-[Technical Experience](#technical-experience) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | [Hobbies](#hobbies)
+[Technical Experience](#technical-experience) | [Skills](#soft-skills) | [Work Experience](#work-experience) | [Education](#education) | [Hobbies](#hobbies)
 
-With a background in finance and learning/development, problem solving and efficiency has been at the forefront of my professional life. As an individual, I find my energy through creativity, passion and a drive to be the best possible version of myself. For the past few years I've know software development as the perfect way to marry my logical, problem-solving acuity, with my desire to create, collaborate and grow.
+With a finance and learning/development background, problem-solving and efficiency have been at the forefront of my professional life. However, as an individual, I find my energy through creativity, passion and a drive to be the best possible version of myself. I've known software development for the past few years as the perfect way to marry my logical, problem-solving acuity with my desire to create, collaborate, and grow.
 
-In January of this year, I took the leap and enrolled with Makers Academy. Here, coding fundamentals such as pair-programming and agile development, through to full-stack, test-driven MERN applications are drilled in from day one. Alongside best coding practices and an EQ curriculum, Makers has equipped me with the skills I need to seamlessly integrate into a professional workflow. As a queer person, bringing a safe, welcoming and personable experience to my team does not only align with my values, but with who I am at my core. I'm thrilled by the prospect of working in a company where best practices - both technically and personally - are at the beating heart of the team experience.
+In January of this year, I took the leap and enrolled with Makers Academy. Here, coding fundamentals such as pair-programming and agile development, through to full-stack, test-driven MERN applications are drilled in from day one. Alongside best coding practices and an EQ curriculum, Makers has equipped me with the skills I need to integrate into a professional workflow seamlessly. As a queer person, bringing a safe, welcoming and personable experience to my team does not only align with my values but with who I am at my core. I'm thrilled by the prospect of working in a company where best practices - both technically and personally - are at the beating heart of the team experience.
 
 ## Technical Experience
 
 **Makers Academy, London (January 2022 - May 2022)**
 
-* 16-week intensive course at a leading European software development Bootcamp.
-* Trained to work using core development processes and methodologies such as SOLID, SRP, XP, REST, kanban and pair programming.
-* Strong focus on TDD and BDD from week 1 using: Rspec, Capybara, Jest, Jasmine, Cypress & Jest-DOM, alongside continuous integration.
-* Client-side, server-side and full-stack projects using: Ruby/Ruby-on-Rails, Sinatra, JavaScript, Node.js, ReactJS, PostgreSQL, MongoDB, Express & Handlebars.
-* Managed an intensive workload centred around self-directed learning.
-* Completed multiple, agile group engineering projects leading sprints, stand-ups and retrospectives.
+- 16-week intensive course at a leading European software development Bootcamp.
+- Trained to work using core development processes and methodologies such as SOLID, SRP, XP, REST, kanban and pair programming.
+- Strong focus on TDD and BDD from week 1 using: Rspec, Capybara, Jest, Jasmine, Cypress & Jest-DOM, alongside continuous integration.
+- Client-side, server-side and full-stack projects using: Ruby/Ruby-on-Rails, Sinatra, JavaScript, Node.js, ReactJS, PostgreSQL, MongoDB, Express & Handlebars.
+- Managed an intensive workload centred around self-directed learning.
+- Completed multiple agile group engineering projects leading sprints, standups and retrospectives.
 
 ### Projects
 
@@ -39,6 +39,14 @@ The EQ curriculum at Makers trained us extensively on [giving and receiving good
 
 Outside of the professional, I am a very social person, and I emotionally thrive from the connections in my life.
 
+#### Collaboration
+At Addison Lee, we were a team of coaches responsible for our staff; we worked together to deliver training consistently, identify improvement areas, and nurture team and trainee KPIs. I worked closely with management at Classic Interiors, where our strategic teamwork grew the turnover by 485% and opened an additional two locations in just three short years. At Makers, collaboration dictated the success of our projects; we frequently ran standups and retrospectives as a team and mobbed planning/design/brainstorming sessions.
+
+I operate well independently, though I deliver my best results in a collaborative environment. I feel tremendous joy when success is a mutual celebration and work at my happiest when sharing ideas, input, and support; this was, without doubt, my favourite element of the Makers Bootcamp.
+
+#### Confidence
+Whether it's moving to a new country at age 11, deciding to change my life and join an intensive Bootcamp, or holding my chin up high in the face of prejudice, my experiences in life have humbled me. This acquaintance with the uncomfortable imbued confidence that I use in all facets of my life. I will not back down to a challenge; I give vigorously to any opportunity presented; I do not hesitate to ask difficult questions, and I'm willing to put myself out of my comfort zone to learn something new.
+
 #### Myers-Briggs Personality Type
 [Protagonist - ENFJ](https://www.16personalities.com/enfj-personality).
 
@@ -47,45 +55,42 @@ Outside of the professional, I am a very social person, and I emotionally thrive
 **Self-employed (January 2021 to present)**  
 _Currency Trader_
 
-- Research up-and-coming tech companies and projects
-- Analysing market conditions to open/close trades, applying pattern
-recognition and trading psychology to support decisions.
-- Actively manage my portfolio and risk calculations
-- Built trading bots using MQL5 for MetaTrader
+- Research up-and-coming tech companies and projects.
+- Analysed market conditions to open/close trades, applying pattern recognition and trading psychology to support decisions.
+- Actively manage my portfolio and risk calculations.
+- Built trading bots using MQL5 for MetaTrader.
 
 **Addison Lee Group (June 2019 to January 2021)**  
 _Brand Standards Coach_
+
 - Undertake HR tasks such as note-taking, disciplinary processes, attendance and behaviour monitoring/reporting and RTWs.
 - Construct business-wide communications to deliver critical information as required by stakeholders.
-- Comprehensive 4-week training to new starters with the creation and delivery of new training packages to existing advisors
-- Improve the performance of Advisors by agreeing on individual objectives, monitoring performance, and supporting regular 1-2-1 coaching sessions
-- Work with Team Managers in order to innovate, identify and help implement process improvements
-- Encourage an exceptional level of service and nurture advisor KPIs (CSAT, AHT, ABCs)
-- Support operational needs across the business, safeguarding the fulfilment of regulatory and key-account SLAs
-- Set a precedent for our teams, cultivating our culture and group values
+- Comprehensive 4-week training for new starters with the creation and delivery of new training packages to existing advisors.
+- Improve Advisors' performance by agreeing on individual objectives, monitoring performance, and supporting regular 1-2-1 coaching sessions.
+- Work with Team Managers to innovate, identify and help implement process improvements.
+- Encourage an exceptional level of service and nurture advisor KPIs (CSAT, AHT, ABCs).
+- Support operational needs across the business, safeguarding the fulfilment of regulatory and key-account SLAs.
+- Set a precedent for our teams, cultivating our culture and group values.
 
 **Classic Interiors Limited (December 2014 to January 2018)**  
 _Accounts Manager_
-- Monthly payroll for all employed staff, including non-taxable benefits and journals
-- Quarterly VAT returns and full bookkeeping for 2 different stores
-- Analysis of financial data from all store locations for weekly managerial review
-- Pension processing and management
-- Full maintenance of Health & Safety logs and procedures including the creation and upkeep of risk assessments, fire safety, and staff training.
-- Liaise with accountants for the completion of annual returns
-- Manage expense claims and director loan accounts
-- All accounting/payroll/pensions managed through Xero
-- Train staff to meet organisational policies and procedures, legal regulations,
-and customer service.
+
+- Monthly payroll for all employed staff, including non-taxable benefits and journals.
+- Ran weekly managerial meetings, presenting an analysis of financial data for all locations.
+- Completed performance reviews with retail team and trained on KPIs.
+- Quarterly VAT returns for three store locations.
+- Liaise with accountants for the completion of annual returns.
+- Train staff to meet organisational policies and procedures, legal regulations, and customer service/KPIs.
 
 ## Education
 
-**New College Stamford (Septemeber 2015 - May 2017)**  
+**New College Stamford (September 2015 - May 2017)**  
 _Diploma in IT_  
   
 Grade: __D* D* D*__
 
 ## Hobbies
 
-I enjoy going to the gym, hiking, skiing and travelling. I have a passion for wellness through meditation, skincare and explorative excursions with my beautiful dog.
+I enjoy going to the gym, hiking, skiing and travelling. In addition, I am passionate about wellness through meditation, skincare and explorative excursions with my beautiful dog.
 
-I also volunteer as a treasurer for a local community centre in my hometown, digitising the back-office, maintaining the accounts and playing an active role in key fundraising events throughout the year.
+I also volunteer as a Treasurer for a local community centre in my hometown, digitising the back office, maintaining the accounts and playing an active role in key fundraising events throughout the year.
