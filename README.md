@@ -4,25 +4,25 @@
 
 With a finance and learning/development background, problem-solving and efficiency have been at the forefront of my professional life. However, as an individual, I find my energy through creativity, passion and a drive to be the best possible version of myself. I've known software development for the past few years as the perfect way to marry my logical, problem-solving acuity with my desire to create, collaborate, and grow.
 
-In January of this year, I took the leap and enrolled with Makers Academy. Here, coding fundamentals such as pair-programming and agile development, through to full-stack, test-driven MERN applications are drilled in from day one. Alongside best coding practices and an EQ curriculum, Makers has equipped me with the skills I need to integrate into a professional workflow seamlessly. As a queer person, bringing a safe, welcoming and personable experience to my team does not only align with my values but with who I am at my core. I'm thrilled by the prospect of working in a company where best practices - both technically and personally - are at the beating heart of the team experience.
+In January of this year, I took the leap and enrolled with Makers Academy. Here, coding fundamentals such as pair-programming and agile development, through to full-stack, test-driven MERN applications are taught from day one. Alongside best coding practices and an EQ curriculum, Makers has equipped me with the skills I need to integrate into a professional workflow seamlessly. As a queer person, bringing a safe, welcoming and personable experience to my team does not only align with my values but with who I am at my core. I'm thrilled by the prospect of working in a company where best practices - both technically and personally - are at the beating heart of the team experience.
 
 ## Technical Experience
 
 **Makers Academy, London (January 2022 - May 2022)**
 
 - 16-week intensive course at a leading European software development Bootcamp.
+- Client-side, server-side and full-stack projects using: Ruby/Ruby-on-Rails, Sinatra, JavaScript, Node.js, ReactJS, PostgreSQL, MongoDB, Express & Handlebars.
 - Trained to work using core development processes and methodologies such as SOLID, SRP, XP, REST, kanban and pair programming.
 - Strong focus on TDD and BDD from week 1 using: Rspec, Capybara, Jest, Jasmine, Cypress & Jest-DOM, alongside continuous integration.
-- Client-side, server-side and full-stack projects using: Ruby/Ruby-on-Rails, Sinatra, JavaScript, Node.js, ReactJS, PostgreSQL, MongoDB, Express & Handlebars.
-- Managed an intensive workload centred around self-directed learning.
+- Managed an intensive workload centered around self-directed learning.
 - Completed multiple agile group engineering projects leading sprints, standups and retrospectives.
 
 ### Projects
 
-| Name                         | Description       | Technologies | Testing | Critical Analysis |        
+| Name                         | Description       | Technologies | Testing | Supporting Information |        
 | ---------------------------- | ----------------- | ----------------- | ---------------------- | ------------|
-| **[Travel Angel](https://github.com/adamwoodcock98/travel-angel)**            | A webapp to store and track all of your travel information and documentation. | MongoDB, Express, ReactJS, Node.js | Jest, React Testing Library | Text |
-| **[Koala](https://github.com/adamwoodcock98/koala)** | A clone of Facebook where you can create a profile, add friends, write posts and like and comment on your friends posts. | MongoDB, Express, Handlebars, Node.js | Jest, Cypress | Text |
+| **[Travel Angel](https://github.com/adamwoodcock98/travel-angel)**            | A webapp to store and track all of your travel information and documentation. | MongoDB, Express, ReactJS, Node.js | Jest, React Testing Library | Project [drive](https://drive.google.com/drive/folders/1VEHu_mx9KQAjgv8b3rXEUj4ChEIE8IlI?usp=sharing) Standups, retros, diagrams and more. |
+| **[Koala](https://github.com/adamwoodcock98/koala)** | A clone of Facebook where you can create a profile, add friends, write posts and like and comment on your friends posts. | MongoDB, Express, Handlebars, Node.js | Jest, Cypress | Project [drive](https://drive.google.com/drive/folders/1BYLg_sg8_bXLzJbsIIYL2jNMSn-iiaY7?usp=sharing) Standups, retros, diagrams and more. |
 | **[ScareBnB](https://github.com/adamwoodcock98/makersbnb)** | A close of Airbnb where you can add, view, request and approve/deny holiday lettings | Ruby, Sinatra | Capybara, Rspec | A [detailed and critical self-analysis](https://github.com/adamwoodcock98/MakersPortfolio/blob/main/Evidence/ScareBnB%20Review.md#Analysis) of the project. |
 
 ### Full course evidence
@@ -30,9 +30,6 @@ In January of this year, I took the leap and enrolled with Makers Academy. Here,
 Jump straight to my [profile](https://github.com/adamwoodcock98) to see all other repos, or for a detailed archive of my learning progression on a week-by-week basis, please take a look at my [Makers portfolio](https://github.com/adamwoodcock98/MakersPortfolio).
 
 ## Soft Skills
-
-#### Intuition
-I've always found pride in my natural sense of intuition. This skill grants me the ability to learn new concepts rapidly and adapt to change with very little friction. For example, during my time at Addison Lee, I was promoted straight into a management role seven months after joining, making me the fastest promotion of that scale in the company. Subsequent feedback from several interviews attributed my success to my willingness and ease when stepping outside of my role.
 
 #### Communication
 The EQ curriculum at Makers trained us extensively on [giving and receiving good feedback](https://medium.com/@adam.woodcock98/receiving-feedback-is-a-gift-999628b6b14c). As a coach, [empathetic](https://github.com/adamwoodcock98/MakersPortfolio/blob/main/Evidence/Empathy%20Workshop%20-%209th%20March%202022.md), active listening was paramount to the success of my trainees and, consequently, my team. I trained on leadership and communication styles, body language, and more in my time there. My written work is practical and adaptive, whether it's for [informal notes](https://github.com/adamwoodcock98/MakersPortfolio/blob/main/Evidence/Model-View-Controller%20(MVC).md), [technical walkthroughs](https://github.com/adamwoodcock98/MakersPortfolio/blob/main/Evidence/debugging-walkthrough.md), direct [reflections of personal challenges](https://medium.com/@adam.woodcock98/time-for-reflection-and-introspection-makers-day-27-2f2da0370486), or company-wide comms at Addison Lee.
@@ -46,6 +43,9 @@ I operate well independently, though I deliver my best results in a collaborativ
 
 #### Confidence
 Whether it's moving to a new country at age 11, deciding to change my life and join an intensive Bootcamp, or holding my chin up high in the face of prejudice, my experiences in life have humbled me. This acquaintance with the uncomfortable imbued confidence that I use in all facets of my life. I will not back down to a challenge; I give vigorously to any opportunity presented; I do not hesitate to ask difficult questions, and I'm willing to put myself out of my comfort zone to learn something new.
+
+#### Intuition
+I've always found pride in my natural sense of intuition. This skill grants me the ability to learn new concepts rapidly and adapt to change with very little friction. For example, during my time at Addison Lee, I was promoted straight into a management role seven months after joining, making me the fastest promotion of that scale in the company. Subsequent feedback from several interviews attributed my success to my willingness and ease when stepping outside of my role.
 
 #### Myers-Briggs Personality Type
 [Protagonist - ENFJ](https://www.16personalities.com/enfj-personality).
@@ -77,7 +77,7 @@ _Accounts Manager_
 
 - Monthly payroll for all employed staff, including non-taxable benefits and journals.
 - Ran weekly managerial meetings, presenting an analysis of financial data for all locations.
-- Completed performance reviews with retail team and trained on KPIs.
+- Completed performance reviews with the retail team and trained on KPIs.
 - Quarterly VAT returns for three store locations.
 - Liaise with accountants for the completion of annual returns.
 - Train staff to meet organisational policies and procedures, legal regulations, and customer service/KPIs.
@@ -86,8 +86,6 @@ _Accounts Manager_
 
 **New College Stamford (September 2015 - May 2017)**  
 _Diploma in IT_  
-  
-Grade: __D* D* D*__
 
 ## Hobbies
 
