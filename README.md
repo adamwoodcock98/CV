@@ -1,6 +1,6 @@
 # Adam Woodcock
 
-[Technical Experience](#technical-experience) | [Skills](#soft-skills) | [Work Experience](#work-experience) | [Education](#education) | [Hobbies](#hobbies)
+[Technical Experience](#technical-experience) | [Skills](#soft-skills) | [Work Experience](#work-experience) | [Education](#education) | [Hobbies](#hobbies) | [Blog](https://medium.com/@adam.woodcock98)
 
 With a finance and learning/development background, problem-solving and efficiency have been at the forefront of my professional life. However, as an individual, I find my energy through creativity, passion and a drive to be the best possible version of myself. I've known software development for the past few years as the perfect way to marry my logical, problem-solving acuity with my desire to create, collaborate, and grow.
 
