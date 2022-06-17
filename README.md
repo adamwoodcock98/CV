@@ -4,7 +4,7 @@
 
 With a finance and learning/development background, problem-solving and efficiency have been at the forefront of my professional life. However, as an individual, I find my energy through creativity, passion and a drive to be the best possible version of myself. I've known software development for the past few years as the perfect way to marry my logical, problem-solving acuity with my desire to create, collaborate, and grow.
 
-In January of this year, I took the leap and enrolled with Makers Academy. Here, coding fundamentals such as pair-programming and agile development, through to full-stack, test-driven MERN applications are taught from day one. Alongside best coding practices and an EQ curriculum, Makers has equipped me with the skills I need to integrate into a professional workflow seamlessly. As a queer person, bringing a safe, welcoming and personable experience to my team does not only align with my values but with who I am at my core. I'm thrilled by the prospect of working in a company where best practices - both technically and personally - are at the beating heart of the team experience.
+As a queer person, bringing a safe, welcoming and personable experience to my team does not only align with my values but with who I am at my core. I'm thrilled by the prospect of working in a company where best practices - both technically and personally - are at the beating heart of the team experience.
 
 ## Technical Experience
 
