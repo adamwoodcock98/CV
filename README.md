@@ -11,9 +11,9 @@ As a queer person, bringing a safe, welcoming and personable experience to my te
 **Makers Academy, London (January 2022 - May 2022)**
 
 - 16-week intensive course at a leading European software development Bootcamp.
-- Client-side, server-side and full-stack projects using: Ruby/Ruby-on-Rails, Sinatra, JavaScript, Node.js, ReactJS, PostgreSQL, MongoDB, Express & Handlebars.
-- Trained to work using core development processes and methodologies such as SOLID, SRP, XP, REST, kanban and pair programming.
-- Strong focus on TDD and BDD from week 1 using: Rspec, Capybara, Jest, Jasmine, Cypress & Jest-DOM, alongside continuous integration.
+- Technologies: Ruby/Ruby-on-Rails, Sinatra, JavaScript, Node.js, ReactJS, PostgreSQL, MongoDB, Express & Handlebars.
+- Core development processes and methodologies: OOP, SOLID, XP, REST, kanban and pair programming.
+- TDD & BDD: Rspec, Capybara, Jest, Jasmine, Cypress & Jest-DOM, continuous integration.
 - Managed an intensive workload centered around self-directed learning.
 - Completed multiple agile group engineering projects leading sprints, standups and retrospectives.
 
