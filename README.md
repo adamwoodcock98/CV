@@ -8,6 +8,14 @@ As a queer person, bringing a safe, welcoming and personable experience to my te
 
 ## Technical Experience
 
+### Projects
+
+| Name                         | Description       | Technologies | Testing | Supporting Information |        
+| ---------------------------- | ----------------- | ----------------- | ---------------------- | ------------|
+| **[Travel Angel](https://github.com/adamwoodcock98/travel-angel)**            | A webapp to store and track all of your travel information and documentation. | MongoDB, Express, ReactJS, Node.js | Jest, React Testing Library | Project [drive](https://drive.google.com/drive/folders/1VEHu_mx9KQAjgv8b3rXEUj4ChEIE8IlI?usp=sharing) Standups, retros, diagrams and more. |
+| **[Koala](https://github.com/adamwoodcock98/koala)** | A clone of Facebook where you can create a profile, add friends, write posts and like and comment on your friends posts. | MongoDB, Express, Handlebars, Node.js | Jest, Cypress | Project [drive](https://drive.google.com/drive/folders/1BYLg_sg8_bXLzJbsIIYL2jNMSn-iiaY7?usp=sharing) Standups, retros, diagrams and more. |
+| **[ScareBnB](https://github.com/adamwoodcock98/makersbnb)** | A close of Airbnb where you can add, view, request and approve/deny holiday lettings | Ruby, Sinatra | Capybara, Rspec | A [detailed and critical self-analysis](https://github.com/adamwoodcock98/MakersPortfolio/blob/main/Evidence/ScareBnB%20Review.md#Analysis) of the project. |
+
 **Makers Academy, London (January 2022 - May 2022)**
 
 - 16-week intensive course at a leading European software development Bootcamp.
@@ -16,14 +24,6 @@ As a queer person, bringing a safe, welcoming and personable experience to my te
 - TDD & BDD: Rspec, Capybara, Jest, Jasmine, Cypress & Jest-DOM, continuous integration.
 - Managed an intensive workload centered around self-directed learning.
 - Completed multiple agile group engineering projects leading sprints, standups and retrospectives.
-
-### Projects
-
-| Name                         | Description       | Technologies | Testing | Supporting Information |        
-| ---------------------------- | ----------------- | ----------------- | ---------------------- | ------------|
-| **[Travel Angel](https://github.com/adamwoodcock98/travel-angel)**            | A webapp to store and track all of your travel information and documentation. | MongoDB, Express, ReactJS, Node.js | Jest, React Testing Library | Project [drive](https://drive.google.com/drive/folders/1VEHu_mx9KQAjgv8b3rXEUj4ChEIE8IlI?usp=sharing) Standups, retros, diagrams and more. |
-| **[Koala](https://github.com/adamwoodcock98/koala)** | A clone of Facebook where you can create a profile, add friends, write posts and like and comment on your friends posts. | MongoDB, Express, Handlebars, Node.js | Jest, Cypress | Project [drive](https://drive.google.com/drive/folders/1BYLg_sg8_bXLzJbsIIYL2jNMSn-iiaY7?usp=sharing) Standups, retros, diagrams and more. |
-| **[ScareBnB](https://github.com/adamwoodcock98/makersbnb)** | A close of Airbnb where you can add, view, request and approve/deny holiday lettings | Ruby, Sinatra | Capybara, Rspec | A [detailed and critical self-analysis](https://github.com/adamwoodcock98/MakersPortfolio/blob/main/Evidence/ScareBnB%20Review.md#Analysis) of the project. |
 
 ### Full course evidence
 
