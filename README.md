@@ -1,12 +1,10 @@
 # Adam Woodcock
 
-[Technical Experience](#technical-experience) | [Skills](#soft-skills) | [Work Experience](#work-experience) | [Education](#education) | [Hobbies](#hobbies) | [Blog](https://medium.com/@adam.woodcock98)
+[Education](#education) | [Skills](#soft-skills) | [Work Experience](#work-experience) | [Education](#education) | [Hobbies](#hobbies) | [Blog](https://medium.com/@adam.woodcock98)
 
-With a finance and learning/development background, problem-solving and efficiency have been at the forefront of my professional life. However, as an individual, I find my energy through creativity, passion and a drive to be the best possible version of myself. I've known software development for the past few years as the perfect way to marry my logical, problem-solving acuity with my desire to create, collaborate, and grow.
+With a finance and learning/development background, problem-solving and efficiency have been at the forefront of my professional life. However, as an individual, I find my energy through creativity, passion and a drive to be the best possible version of myself. From the moment I first coded in College,  I've known software development as the perfect way to marry my logical, problem-solving acuity with my desire to create, collaborate, and grow. As a queer person, bringing a safe, welcoming and personable experience to my team does not only align with my values but with who I am at my core. I'm thrilled by the prospect of working in a company where best practices - both technically and personally - are at the beating heart of the team experience.
 
-As a queer person, bringing a safe, welcoming and personable experience to my team does not only align with my values but with who I am at my core. I'm thrilled by the prospect of working in a company where best practices - both technically and personally - are at the beating heart of the team experience.
-
-## Technical Experience
+## Education
 
 ### Projects
 
@@ -16,18 +14,25 @@ As a queer person, bringing a safe, welcoming and personable experience to my te
 | **[Koala](https://github.com/adamwoodcock98/koala)** | A clone of Facebook where you can create a profile, add friends, write posts and like and comment on your friends posts. | MongoDB, Express, Handlebars, Node.js | Jest, Cypress | Project [drive](https://drive.google.com/drive/folders/1BYLg_sg8_bXLzJbsIIYL2jNMSn-iiaY7?usp=sharing) Standups, retros, diagrams and more. |
 | **[ScareBnB](https://github.com/adamwoodcock98/makersbnb)** | A close of Airbnb where you can add, view, request and approve/deny holiday lettings | Ruby, Sinatra | Capybara, Rspec | A [detailed and critical self-analysis](https://github.com/adamwoodcock98/MakersPortfolio/blob/main/Evidence/ScareBnB%20Review.md#Analysis) of the project. |
 
-**Makers Academy, London (January 2022 - May 2022)**
+**Makers Academy, London (January 2022 - May 2022)** <br />
+_16-week intensive course at a leading European software development Bootcamp_
 
-- 16-week intensive course at a leading European software development Bootcamp.
 - Technologies: Ruby/Ruby-on-Rails, Sinatra, JavaScript, Node.js, ReactJS, PostgreSQL, MongoDB, Express & Handlebars.
 - Core development processes and methodologies: OOP, SOLID, XP, REST, kanban and pair programming.
 - TDD & BDD: Rspec, Capybara, Jest, Jasmine, Cypress & Jest-DOM, continuous integration.
 - Managed an intensive workload centered around self-directed learning.
 - Completed multiple agile group engineering projects leading sprints, standups and retrospectives.
 
-### Full course evidence
+> Jump straight to my [profile](https://github.com/adamwoodcock98) to see all other repos, or for a detailed archive of my learning progression on a week-by-week basis, please take a look at my [Makers portfolio](https://github.com/adamwoodcock98/MakersPortfolio).
 
-Jump straight to my [profile](https://github.com/adamwoodcock98) to see all other repos, or for a detailed archive of my learning progression on a week-by-week basis, please take a look at my [Makers portfolio](https://github.com/adamwoodcock98/MakersPortfolio).
+**London App Brewery (May 2018 - August 2018))** <br />
+_iOS Developer Bootcamp_
+
+–	Concepts: OOP, MVC, Asynchronous & RESTful APIs
+–	Technologies: Swift, UIKit, ARKit, AV Foundation, CloudKit, Core Location, Core ML, Create ML, HealthKit, MapKit, SiriKit, Core Data, Realm
+
+**New College Stamford (September 2015 - May 2017)** <br />
+_Diploma in IT_
 
 ## Soft Skills
 
@@ -81,11 +86,6 @@ _Accounts Manager_
 - Quarterly VAT returns for three store locations.
 - Liaise with accountants for the completion of annual returns.
 - Train staff to meet organisational policies and procedures, legal regulations, and customer service/KPIs.
-
-## Education
-
-**New College Stamford (September 2015 - May 2017)**  
-_Diploma in IT_  
 
 ## Hobbies
 
